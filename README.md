@@ -12,7 +12,7 @@ Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, 
 
 
 # Projeto (API) 
-Projeto de logística que tem como foco a solução do problema dado pelo cliente.Assim conseguimos ter uma melhor compreensão sobge o asunto para podermos dad andamento ao projeto.
+Projeto de logística que tem como foco a solução do problema dado pelo cliente.Assim conseguimos ter uma melhor compreensão sobre o asunto para podermos dad andamento ao projeto.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |

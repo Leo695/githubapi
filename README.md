@@ -50,6 +50,7 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                             
+
 *Sprint 1
 
   .Como cliente quero que tenha um protótipo inicial com dados filtrados do produto.
@@ -66,7 +67,9 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 .Como cliente quero que o Dashboard fique filtrado com os acidentes relacionados à infraestrutura e as cidades mais afetadas.
 
 Como especialista em logística, quero  identificar critérios que podemos utilizar ferramentas para facilitar 
-projeto.                                                                                                                                                 *Sprint 3
+projeto.                                                                                                                                                 
+
+*Sprint 3 
                           
 . Como cliente quero que o Dashboard já tenha filtrado as cidades e os acidentes.
 
@@ -74,7 +77,7 @@ Como especialista em logística quero fazer um Dashboard bem feito e intuitivo p
 
 
 
-   *Sprint 4
+  *Sprint 4
 
 .Como cliente quero que o Dashboard esteja completando com todas as informações em dia que forem utilizadas nas sprints anteriores.
 

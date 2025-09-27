@@ -15,15 +15,13 @@ Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, 
 Projeto de logística que tem como foco a solução do problema dado pelo cliente.Assim conseguimos ter uma melhor compreensão sobre o asunto para podermos dad andamento ao projeto.
 
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |    
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Aluno 1         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
- | Scrum Master |Aline  Aluno 2   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
- Team Member: Lucas                      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        
-Team Member: Leonardo                         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
- Team Member: Milena                    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-  Team Member: Caroline          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
-
+| Product Owner | Caroline Beatriz Souza Thomaz |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-thomaz-33905718a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cah)              |
+| Scrum Master  | Aline |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aline/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/aline)
+| Team Member   | Leonardo Moreira Fernandes |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-fernandes-8a28252b3/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo695)        |
+|  Team Member  | Lucas Barsaglini |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barsaglini99)   |
+|  Team Member  | Milena Profeta |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milena/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/milena)     |
 
 # Objetivo do Projeto
  Este projeto tem como objetivo analisar acidentes de trânsito em cidades brasileiras com população acima de 100 mil habitantes, com foco nos erros logísticos que contribuem para esses eventos.  
@@ -51,37 +49,37 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
 | Rank | Prioridade | User Story                                                                                                                                             
 
-*Sprint 1
+ ## SPRINT 1
 
-  .Como cliente quero que tenha um protótipo inicial com dados filtrados do produto.
+* Como cliente quero que tenha um protótipo inicial com dados filtrados do produto.
  
-.Como especialista em logística, quero uma base de dados nos anos de 2024/2025.
+* Como especialista em logística, quero uma base de dados nos anos de 2024/2025.
 
-.Como especialista em logística quero pegar somente dados que sejam relevantes.
+* Como especialista em logística quero pegar somente dados que sejam relevantes.
                                                                    
 
                                      
 
-*Sprint 2                                                                
+## Sprint 2                                                                
 
-.Como cliente quero que o Dashboard fique filtrado com os acidentes relacionados à infraestrutura e as cidades mais afetadas.
+* Como cliente quero que o Dashboard fique filtrado com os acidentes relacionados à infraestrutura e as cidades mais afetadas.
 
-Como especialista em logística, quero  identificar critérios que podemos utilizar ferramentas para facilitar 
+* Como especialista em logística, quero  identificar critérios que podemos utilizar ferramentas para facilitar 
 projeto.                                                                                                                                                 
 
-*Sprint 3 
+## Sprint 3 
                           
-. Como cliente quero que o Dashboard já tenha filtrado as cidades e os acidentes.
+* Como cliente quero que o Dashboard já tenha filtrado as cidades e os acidentes.
 
-Como especialista em logística quero fazer um Dashboard bem feito e intuitivo pare que o cliente tenha uma melhor compreensão.
+* Como especialista em logística quero fazer um Dashboard bem feito e intuitivo pare que o cliente tenha uma melhor compreensão.
 
 
 
-  *Sprint 4
+ ## Sprint 4
 
-.Como cliente quero que o Dashboard esteja completando com todas as informações em dia que forem utilizadas nas sprints anteriores.
+* Como cliente quero que o Dashboard esteja completando com todas as informações em dia que forem utilizadas nas sprints anteriores.
 
-.Como especialista em logística, quero receber um Dashboard com fácil visualização e que todos possam compreender oque fizemos nas sprints.
+* Como especialista em logística, quero receber um Dashboard com fácil visualização e que todos possam compreender oque fizemos nas sprints.
 
 
   

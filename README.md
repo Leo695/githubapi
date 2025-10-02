@@ -60,14 +60,14 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
                                      
 
-## Sprint 2                                                                
+## SPRINT 2                                                                
 
 * Como cliente quero que o Dashboard fique filtrado com os acidentes relacionados à infraestrutura e as cidades mais afetadas.
 
 * Como especialista em logística, quero  identificar critérios que podemos utilizar ferramentas para facilitar 
 projeto.                                                                                                                                                 
 
-## Sprint 3 
+## SPRINT 3 
                           
 * Como cliente quero que o Dashboard já tenha filtrado as cidades e os acidentes.
 
@@ -75,7 +75,7 @@ projeto.
 
 
 
- ## Sprint 4
+ ## SPRINT 4
 
 * Como cliente quero que o Dashboard esteja completando com todas as informações em dia que forem utilizadas nas sprints anteriores.
 

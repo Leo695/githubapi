@@ -47,7 +47,12 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                             
+| 1 | Alta | Como estudante de logística pretendo entregar a primeira sprint correta com os dados e pesquisas realizadas|Estimativa|4|Sprint|1
+
+
+   
+
+             
 
  ## SPRINT 1
 

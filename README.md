@@ -39,7 +39,7 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
+* Whatsapp 
 * Python (Colab)
   
 

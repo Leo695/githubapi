@@ -49,9 +49,9 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
 | Rank | Prioridade | User Story                                                                                                |   Estimativa    | Sprint                                                                                                       
 |------|------------|------------|-----------------|---------------------------------------------------------------------------------------------------------------
-| 1    | Alta       | Como estudante de logística pretendo entregar a primeira Sprint correta com os dados e pesquisas realizadas| 4              | 1
-| 2    | Alta       | Como estudante de logística pretendo entregar a Sprint 2 com os dados atualizados                           | 6             | 2
-| 3    | Alta       | Como estudando de logística quero que na Sprint 3 o projeto esteja praticamente finalizado                 | 5              | 3
+| 1    | Alta       | Como estudante de logística procuro analisar dados de acidentes de transito para concluir a primeira Sprint de forma correta com as pesquisas realizadas| 4              | 1
+| 2    | Alta       | Como estudante de logística vou entregar a Sprint 2 com os dados atualizados do projeto discutido com a equipe                           | 6             | 2
+| 3    | Alta       | Como estudando de logística quero que na Sprint 3 o projeto esteja praticamente finalizado                  | 5              | 3
 | 4    | Alta       | Como estudante de logística espero que na Sprint 4 o projeto esteja finalizado com sucesso                  | 5             | 4
 
 

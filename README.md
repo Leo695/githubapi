@@ -64,7 +64,7 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
 * Como cliente quero que tenha um protótipo inicial com dados filtrados do produto.
  
-* Como especialista em logística, quero uma base de dados nos anos de 2024/2025.
+* Como especialista em logística, quero uma base de dados nos anos de 2018/2024.
 
 * Como especialista em logística quero pegar somente dados que sejam relevantes.
                                                                    

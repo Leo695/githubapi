@@ -47,13 +47,15 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
 # Product Backlog
 
-| 1 | Alta | Como estudante de logística pretendo entregar a primeira Sprint correta com os dados e pesquisas realizadas|Estimativa|4|Sprint|1
+| Rank | Prioridade | User Story                   |   Estimativa    | Sprint                                                                                                       
+|------|------------|------------|-----------------|---------------------------------------------------------------------------------------------------------------
+| 1    | Alta       | Como estudante de logística pretendo entregar a primeira Sprint correta com os dados e pesquisas realizadas| 4| 1
 
-|2 | Alta | Como estudante de logística pretendo entregar a Sprint 2 com os dados atualizados|Estimativa|6|Sprint|2
+| 2    | Alta       | Como estudante de logística pretendo entregar a Sprint 2 com os dados atualizados                           | 6| 2
 
-|3 | Alta | Como estudando de logística quero que na Sprint 3 o projeto esteja praticamente finalizado|Estimativa|5|Sprint|3
+| 3    | Alta       | Como estudando de logística quero que na Sprint 3 o projeto esteja praticamente finalizado                 | 5| 3
 
-|4 | Alta | Como estudante de logística espero que na Sprint 4 o projeto esteja finalizado com sucesso|Estimativa|5|Sprint|4
+| 4    | Alta       | Como estudante de logística espero que na Sprint 4 o projeto esteja finalizado com sucesso                  | 5| 4
 
 
 

@@ -26,7 +26,7 @@ Projeto de logística que tem como foco a solução do problema dado pelo client
  Este projeto tem como objetivo analisar acidentes de trânsito em cidades brasileiras com população acima de 100 mil habitantes, com foco nos erros logísticos que contribuem para esses eventos.  
 A pesquisa busca levantar dados, identificar padrões e propor soluções que melhorem a mobilidade urbana e reduzam a ocorrência de acidentes.
 
-* Ajudandondo a desenvolver o trabalho em equipe.
+* Ajudando a desenvolver o trabalho em equipe.
 
 * Ter uma melhor compreensão sobre as tecnologias utilizadas no trabalho.
 

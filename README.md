@@ -48,10 +48,10 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
 | Rank | Prioridade | User Story                                                                                                |   Estimativa    | Sprint                                                                                                       
 |------|------------|------------|-----------------|---------------------------------------------------------------------------------------------------------------
-| 1    | Alta       | Como estudante de logística procuro analisar dados de acidentes de transito para concluir a primeira Sprint de forma correta com as pesquisas realizadas| 4              | 1
-| 2    | Alta       | Como estudante de logística vou entregar a Sprint 2 com os dados atualizados do projeto discutido com a equipe                           | 6             | 2
-| 3    | Alta       | Como estudando de logística quero que na Sprint 3 o projeto esteja praticamente finalizado                  | 5              | 3
-| 4    | Alta       | Como estudante de logística espero que na Sprint 4 o projeto esteja finalizado com sucesso                  | 5             | 4
+| 1    | Alta       |O projeto tem como foco compreender de que forma a geometria da via influencia diretamente nos sinistros de trânsito, considerando os principais fatores relacionados à infraestrutura viária. | 4              | 1
+| 2    | Alta       |Busca-se identificar acidentes que apresentaram interferência direta das condições da via, analisando elementos como curvas, pavimentação, acostamentos e demais aspectos estruturais.                          | 6             | 2
+| 3    | Alta       |O estudo tem como propósito avaliar a presença e a eficiência de elementos de segurança, como guard rails, canteiros centrais e acostamentos, na prevenção de sinistros de trânsito.                  | 5              | 3
+| 4    | Alta       |O projeto será finalizado com a apresentação de insights conclusivos sobre como a geometria das vias e as condições da infraestrutura viária impactam diretamente a ocorrência de acidentes.                 | 5             | 4
 
 
 

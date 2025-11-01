@@ -1,4 +1,6 @@
 # Aprendizado por Projeto Integrado (API)
+![WhatsApp Image 2025-10-31 at 22 32 34](https://github.com/user-attachments/assets/f2451ac5-4a89-4693-b0bf-c96ceccbcef7)
+
 
 
 Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, trabalho em equipe e entrega de resultados.

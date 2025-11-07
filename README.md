@@ -88,6 +88,6 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Entregue   | [MVP](MVP/sp1.md)  |
 | 02                | 31/10/2025 | Entregue   | [MVP](MVP/sp2.md)  |
-| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 28/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
